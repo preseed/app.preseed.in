@@ -101,12 +101,14 @@
   .logo > img {
     padding-top: 10px;
   }
-  .career-btn,
-  .sm-links {
+  .career-btn {
     float: right;
   }
+
   .sm-links {
-    position: relative;
+    float: right;
+    position: relative !important;
+    padding-top: 13px !important;
   }
 }
 
